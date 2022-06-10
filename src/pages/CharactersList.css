@@ -1,0 +1,8 @@
+.CharacterList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(4, 117, 129);
+}
