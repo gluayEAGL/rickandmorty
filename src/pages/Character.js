@@ -28,6 +28,7 @@ export default function Character() {
           })}
         </div>
       </div>
+      <a href="/">Go Back &larr;</a>
     </div>
   );
 }
